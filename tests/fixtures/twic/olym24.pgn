@@ -1,0 +1,111 @@
+[Event "45th Olympiad 2024"]
+[Site "Budapest HUN"]
+[Date "2024.09.11"]
+[Round "1.1"]
+[Board "1"]
+[White "Sanchez Alvarez, Roberto Carlos"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2376"]
+[BlackElo "2752"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[WhiteTeam "Panama"]
+[BlackTeam "United States of America"]
+[WhiteFideId "3508684"]
+[BlackFideId "5202213"]
+[EventDate "2024.09.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. a3 Ba5 10. Qd3 a6 11. Rd1 b5 12. Ba2 Bb7 13. Qe2 cxd4 14. exd4 Bxc3 15.
+bxc3 Ne7 16. c4 bxc4 17. Bxc4 Ng6 18. Ne5 Ne4 19. Nxg6 hxg6 20. Bb2 Re8 21. Rac1
+Qb6 22. f3 Nd6 23. Kh1 Rab8 24. Bc3 Nxc4 25. Qxc4 Rec8 26. Qe2 Bd5 27. Qd2 Qb3
+28. Bb4 a5 29. Bd6 Ra8 30. h3 f6 31. Kh2 g5 32. Rxc8+ Rxc8 33. Rc1 Rd8 34. Bc7
+Ra8 35. Bd6 Qb6 36. Bc7 Qb7 37. Rc3 a4 38. Qc1 Rc8 39. Bd6 Bc6 40. Bg3 Bd7 41.
+Rxc8+ 1/2-1/2
+
+[Event "45th Olympiad 2024"]
+[Site "Budapest HUN"]
+[Date "2024.09.11"]
+[Round "1.1"]
+[Board "2"]
+[White "Dominguez Perez, Leinier"]
+[Black "Delgado Rosas, Alex Antonio"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[WhiteElo "2748"]
+[BlackElo "2157"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteTeam "United States of America"]
+[BlackTeam "Panama"]
+[WhiteFideId "3503240"]
+[BlackFideId "6602150"]
+[EventDate "2024.09.11"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bf5 10. Ng5 Nd7 11. cxd5 cxd5 12. Qf3 Bg6 13. Nxe4 dxe4 14. Bxe4 Re8
+15. Nc3 Qb6 16. Rd1 Nf6 17. Bxg6 hxg6 18. g3 Rad8 19. Bg5 Bb4 20. Bxf6 Qxf6 21.
+Qxb7 Rb8 22. Qxa7 Bxc3 23. bxc3 Rb2 24. Rf1 Ree2 25. Qa8+ Kh7 26. Qg2 g5 27. a4
+g6 28. a5 Qa6 29. Qf3 Kg7 30. Rae1 Red2 31. Re7 Qc4 32. a6 Rd3 33. Rxf7+ 1-0
+
+[Event "45th Olympiad 2024"]
+[Site "Budapest HUN"]
+[Date "2024.09.11"]
+[Round "1.1"]
+[Board "3"]
+[White "Mendez Machado, Andre"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2122"]
+[BlackElo "2729"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteTeam "Panama"]
+[BlackTeam "United States of America"]
+[WhiteFideId "6603793"]
+[BlackFideId "13300474"]
+[EventDate "2024.09.11"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 g6 5. e5 Nh5 6. Bxc6 dxc6 7. O-O Ng7 8. d3
+h6 9. Ne4 b6 10. Re1 Nf5 11. c3 g5 12. Qa4 Qc7 13. g4 Qb7 14. gxf5 Bxf5 15. d4
+Bg4 16. Nfd2 cxd4 17. Nb3 O-O-O 18. cxd4 Kb8 19. Bd2 Bd7 20. Qa3 Bf5 21. Rac1 e6
+22. Qa4 Rc8 23. Rc3 Ka8 24. Ng3 Bh3 25. Nf1 b5 26. Na5 bxa4 27. Nxb7 Bxf1 28.
+Kxf1 Kxb7 29. Rc4 Be7 30. Rxa4 Rhd8 31. Be3 c5 32. dxc5 Bxc5 33. Re4 Bb6 34.
+Bxb6 axb6 35. R1e2 Rd1+ 36. Kg2 h5 37. f4 g4 38. Kg3 Rg8 39. R4e3 Rf1 40. Rf2
+h4+ 41. Kg2 Rd1 42. Ree2 h3+ 43. Kg3 Rg1+ 44. Kh4 g3 45. hxg3 R1xg3 0-1
+
+[Event "45th Olympiad 2024"]
+[Site "Budapest HUN"]
+[Date "2024.09.11"]
+[Round "1.1"]
+[Board "4"]
+[White "Robson, Ray"]
+[Black "Baules Rodriguez, Jorge Luis"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2700"]
+[BlackElo "2271"]
+[ECO "B78"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 10.O-O-O"]
+[WhiteTeam "United States of America"]
+[BlackTeam "Panama"]
+[WhiteFideId "2023970"]
+[BlackFideId "6600247"]
+[EventDate "2024.09.11"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Be2 Nxd4 12. Bxd4 Qa5 13. Kb1 Rfe8 14. g4 Be6
+15. a3 a6 16. h4 b5 17. h5 b4 18. axb4 Qxb4 19. Nd5 Qa4 20. b3 Qa3 21. hxg6 hxg6
+22. g5 Nh5 23. Bxg7 Kxg7 24. f4 Bxd5 25. exd5 Rh8 26. Bg4 Rcd8 27. Qd4+ Kg8 28.
+f5 Qc5 29. Qb2 Rh7 30. fxg6 fxg6 31. Be6+ Kf8 32. Rdf1+ 1-0
