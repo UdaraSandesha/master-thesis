@@ -1,5 +1,9 @@
 .venv/
-data/
+# Raw files, the database and the exports stay out of git. The manifest (checksums of the raw files) is kept.
+data/*
+!data/raw/
+data/raw/*
+!data/raw/manifest.json
 __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/

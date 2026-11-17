@@ -1,0 +1,509 @@
+{
+ "files": {
+  "lichess/2018_open_0aoqVmaY.pgn": {
+   "bytes": 503434,
+   "sha256": "c8f9051e10f048df7d50be8d9eaef13cabde6f5b6904314968e6ef47f60534f5",
+   "fetched": "2026-11-01T12:05:52+00:00"
+  },
+  "lichess/2018_open_2gdiULhO.pgn": {
+   "bytes": 394377,
+   "sha256": "b6466b5ed9aba977ca2d18bbc68dd306152d5c967d777760d06231507f5e80df",
+   "fetched": "2026-11-01T12:01:31+00:00"
+  },
+  "lichess/2018_open_3hy44TnC.pgn": {
+   "bytes": 574423,
+   "sha256": "ba8a30eca7ef3c41388af2ee2af7b81d60f7c58392d8f9b8c027f2b012966111",
+   "fetched": "2026-11-01T12:04:33+00:00"
+  },
+  "lichess/2018_open_9CtXnsyS.pgn": {
+   "bytes": 201210,
+   "sha256": "f08383f8f3fa0a937e68d5b921b8347392541b7ec89b5f6925181adc3f0c0b3e",
+   "fetched": "2026-11-01T12:02:41+00:00"
+  },
+  "lichess/2018_open_BOxvvoTu.pgn": {
+   "bytes": 212192,
+   "sha256": "7a1a1e1e8c487b3054dc4506b27cc8318ec6eeb5606bd50f5245326b454df83f",
+   "fetched": "2026-11-01T12:02:50+00:00"
+  },
+  "lichess/2018_open_CPnHhArn.pgn": {
+   "bytes": 568097,
+   "sha256": "d6d7f906552abcf6ca0de4f8bd37e3b9f801fdf7fcf0f431315a1753d69530eb",
+   "fetched": "2026-11-01T12:05:05+00:00"
+  },
+  "lichess/2018_open_FEX44Hv7.pgn": {
+   "bytes": 542265,
+   "sha256": "4fc959c1e457837996643d55a5b41912f66a92e0294413ae6aeb6e3ea3b30039",
+   "fetched": "2026-11-01T12:07:42+00:00"
+  },
+  "lichess/2018_open_GdpEqg9i.pgn": {
+   "bytes": 619642,
+   "sha256": "686db8476c452cba9eaf3307a3839aafdcefc764c06b75bd8f9b2cb95852ce81",
+   "fetched": "2026-11-01T12:06:07+00:00"
+  },
+  "lichess/2018_open_H5jMwp0X.pgn": {
+   "bytes": 597761,
+   "sha256": "28405ca55c507e4dd7fe4357461b95d62c396f2c5b3dd8308944db83d85f1524",
+   "fetched": "2026-11-01T12:04:51+00:00"
+  },
+  "lichess/2018_open_HXC1b88y.pgn": {
+   "bytes": 283177,
+   "sha256": "6524e3ca53fa1bd0dbdd414fedd38c6e83559347028ab56cef2888e847e4f92f",
+   "fetched": "2026-11-01T12:03:32+00:00"
+  },
+  "lichess/2018_open_JCAHZWib.pgn": {
+   "bytes": 277033,
+   "sha256": "7295668ff878b085a447e300111c2e0d2635645b1402cea5087481aa8dd6b2e5",
+   "fetched": "2026-11-01T12:04:10+00:00"
+  },
+  "lichess/2018_open_LKG1oiE8.pgn": {
+   "bytes": 606763,
+   "sha256": "a5f79d5d1b01d1ea738c38fa575f84be4885c62190613ab6f72124e008c88f88",
+   "fetched": "2026-11-01T12:06:26+00:00"
+  },
+  "lichess/2018_open_Li51Ypzh.pgn": {
+   "bytes": 156045,
+   "sha256": "4235d60df35de16a27529e8c229d034810efef4b6b88d31ab7356848c8d1c9f8",
+   "fetched": "2026-11-01T12:03:17+00:00"
+  },
+  "lichess/2018_open_Ll76dJZT.pgn": {
+   "bytes": 409618,
+   "sha256": "f96f1897527425ee5ff92200ff7d6b02b8ec7e775b7b7f33ce65d66c6da312ac",
+   "fetched": "2026-11-01T12:02:22+00:00"
+  },
+  "lichess/2018_open_QaSEkdCL.pgn": {
+   "bytes": 581124,
+   "sha256": "90eadc6d0d0bb5eaa471edade1934aaf17e62bd86057f866d9ddd5247115e7e1",
+   "fetched": "2026-11-01T12:06:56+00:00"
+  },
+  "lichess/2018_open_SQ6C7qyT.pgn": {
+   "bytes": 614278,
+   "sha256": "b4b7149e4c5941e9236542751da9ed2b5474660dffbff54524e562f753103ea8",
+   "fetched": "2026-11-01T12:05:21+00:00"
+  },
+  "lichess/2018_open_Tp8UNVjh.pgn": {
+   "bytes": 393417,
+   "sha256": "4cd8b98a6196a9ee98b79123bffabea10c58d2e9275a707bc7e474856a9f2fd8",
+   "fetched": "2026-11-01T12:02:03+00:00"
+  },
+  "lichess/2018_open_d4sdFnEt.pgn": {
+   "bytes": 544317,
+   "sha256": "04063340cb1ecd45cbed57d208c569ba1daa0048e99c95a25302b6d545de5c76",
+   "fetched": "2026-11-01T12:07:26+00:00"
+  },
+  "lichess/2018_open_d5EIduys.pgn": {
+   "bytes": 602555,
+   "sha256": "357ba77e35ab344f1a817f42f60145293a3da632993fe29d0534c968387977ba",
+   "fetched": "2026-11-01T12:07:58+00:00"
+  },
+  "lichess/2018_open_f4q1thGe.pgn": {
+   "bytes": 411609,
+   "sha256": "0af1066113a800e8fb83994a6ce7f413446d3b1671698fbd505c9fb2268e55d8",
+   "fetched": "2026-11-01T12:01:48+00:00"
+  },
+  "lichess/2018_open_f5B9Wp5J.pgn": {
+   "bytes": 219472,
+   "sha256": "bd1bea6e57e999fd248b7001c4d31b5255186fe36626b5e102660b501d6b04a8",
+   "fetched": "2026-11-01T12:04:18+00:00"
+  },
+  "lichess/2018_open_iC8pHi1k.pgn": {
+   "bytes": 311399,
+   "sha256": "1f3b538e30b7403c52c0d84855becc5f0618964acc2cb53eddcaa670bba686e8",
+   "fetched": "2026-11-01T12:03:41+00:00"
+  },
+  "lichess/2018_open_j0zqppxH.pgn": {
+   "bytes": 190933,
+   "sha256": "4260751501f11eef89c045232d50fb6b764822237ba1460fbba5cd148577dcfe",
+   "fetched": "2026-11-01T12:02:32+00:00"
+  },
+  "lichess/2018_open_kMRMucnI.pgn": {
+   "bytes": 195907,
+   "sha256": "90a8bd117d1474a8d002292a4e86a73226c89afbf354a1c979bdbb3950eae0c4",
+   "fetched": "2026-11-01T12:03:09+00:00"
+  },
+  "lichess/2018_open_kwXfa0lf.pgn": {
+   "bytes": 205783,
+   "sha256": "1f6c718ed31f0135367db900ed4933721304124fb368bbf1927472362905cf53",
+   "fetched": "2026-11-01T12:03:00+00:00"
+  },
+  "lichess/2018_open_pjBjP3Zc.pgn": {
+   "bytes": 277619,
+   "sha256": "169718ebc43b7d1d3853ac356fe960f6559115b56f53d1740c878c7b017f91db",
+   "fetched": "2026-11-01T12:03:51+00:00"
+  },
+  "lichess/2018_open_pkaxDaJ2.pgn": {
+   "bytes": 274301,
+   "sha256": "d551a9e0492baad0a9657e1156abadaeccce48efd89168e195267be9f0ee4e44",
+   "fetched": "2026-11-01T12:04:00+00:00"
+  },
+  "lichess/2018_open_prJl6Mk9.pgn": {
+   "bytes": 519664,
+   "sha256": "7deea3ff3118abdb8a401b6171502720ad1bd80ce5ef5b16de615b57a589d71d",
+   "fetched": "2026-11-01T12:06:40+00:00"
+  },
+  "lichess/2018_open_uWtkOHRs.pgn": {
+   "bytes": 592777,
+   "sha256": "07baf8eccfedc2737934e52f16ff8b96b109cf1bd8fd33df842d9ac5b4b404e4",
+   "fetched": "2026-11-01T12:05:37+00:00"
+  },
+  "lichess/2018_open_vJR1hdej.pgn": {
+   "bytes": 418435,
+   "sha256": "ef233b9501f2928d766572e836ae98206aa109dec31893b725092ccb965e4b95",
+   "fetched": "2026-11-01T12:08:13+00:00"
+  },
+  "lichess/2018_open_zV19UAHV.pgn": {
+   "bytes": 635982,
+   "sha256": "5bd3e6232785c25c95e60dc115713e330dd1fc920d3ac298f141d3c3f1cab41c",
+   "fetched": "2026-11-01T12:07:12+00:00"
+  },
+  "lichess/2018_women_3mg6nj6f.pgn": {
+   "bytes": 166233,
+   "sha256": "51384c50e8ae987722c7689654e53734b8961818f0b924f8c75e90aaaf450b6a",
+   "fetched": "2026-11-01T12:10:49+00:00"
+  },
+  "lichess/2018_women_5FzmqBcV.pgn": {
+   "bytes": 221229,
+   "sha256": "f738924012eb5377b80302774f092e7d30fc399c60fd65322b4aac2e38074345",
+   "fetched": "2026-11-01T12:09:25+00:00"
+  },
+  "lichess/2018_women_86aHXWVT.pgn": {
+   "bytes": 320582,
+   "sha256": "61fd95685368478a65ff8f7d17f90955efb6b5777d90f6226e56ad97e04d0f36",
+   "fetched": "2026-11-01T12:10:10+00:00"
+  },
+  "lichess/2018_women_AsHjYVli.pgn": {
+   "bytes": 645391,
+   "sha256": "0f9340dc0ba19d2c298f782bdcccca431c44286e0c815fb8b45d956ea494d03d",
+   "fetched": "2026-11-01T12:11:45+00:00"
+  },
+  "lichess/2018_women_DbZNesxr.pgn": {
+   "bytes": 113245,
+   "sha256": "a0b17ab917a3e3396e17905a810910115e50b8b469595431a0a02f478bed8b9d",
+   "fetched": "2026-11-01T12:10:01+00:00"
+  },
+  "lichess/2018_women_E62hJbsP.pgn": {
+   "bytes": 606526,
+   "sha256": "c889bd9fb2a4f0bbd98f7d8ecc2d962f034f588e961c2415e5e59ebf2bd59830",
+   "fetched": "2026-11-01T12:11:04+00:00"
+  },
+  "lichess/2018_women_FXGOzZrU.pgn": {
+   "bytes": 351207,
+   "sha256": "624ed418c3a4ac0cada2a30fea8ad290f2b5e1340403cb597dc7bbb9fa16b176",
+   "fetched": "2026-11-01T12:08:28+00:00"
+  },
+  "lichess/2018_women_Fi5frNfp.pgn": {
+   "bytes": 613820,
+   "sha256": "d1b941e24cc4164e84693372f997e4e076d28f9e9e0fd7944dca908e12241d18",
+   "fetched": "2026-11-01T12:11:23+00:00"
+  },
+  "lichess/2018_women_HEoI2Krt.pgn": {
+   "bytes": 395613,
+   "sha256": "5adc962327fe77ac58e00ffc08dd3a63d427f187ee131f04922ab98735e97571",
+   "fetched": "2026-11-01T12:08:44+00:00"
+  },
+  "lichess/2018_women_IkvPN9iW.pgn": {
+   "bytes": 411358,
+   "sha256": "864c718e9e2d350355d043f7b8b002fc40e0bc24a91c0d082e7651741609391d",
+   "fetched": "2026-11-01T12:09:00+00:00"
+  },
+  "lichess/2018_women_KuPQpvY1.pgn": {
+   "bytes": 216344,
+   "sha256": "500cbcc207bf35d39d7780737a3e6b6300572db91b51af996fbd69f122e2d406",
+   "fetched": "2026-11-01T12:09:44+00:00"
+  },
+  "lichess/2018_women_KwLYN1QJ.pgn": {
+   "bytes": 320980,
+   "sha256": "23c7d028e9908075a0e405c1bd4b990b6ba6ecaf4673c2c74082357ca6826328",
+   "fetched": "2026-11-01T12:10:42+00:00"
+  },
+  "lichess/2018_women_MQuEGnGP.pgn": {
+   "bytes": 206656,
+   "sha256": "9e53e5f44bea476815d08e46f8ed694293a35558692f39be9732ba87bef8ccbe",
+   "fetched": "2026-11-01T12:09:35+00:00"
+  },
+  "lichess/2018_women_OqVJEmee.pgn": {
+   "bytes": 613670,
+   "sha256": "348f86fa85759593c9e1b5af155236bb58c293308cb5121c475f5ec7c20b4d61",
+   "fetched": "2026-11-01T12:12:31+00:00"
+  },
+  "lichess/2018_women_P62bdui7.pgn": {
+   "bytes": 177217,
+   "sha256": "ffce01a51e93d4ff15e9033c73b678e5d3659b2576198e1cbec456a0a1099d4e",
+   "fetched": "2026-11-01T12:15:26+00:00"
+  },
+  "lichess/2018_women_RI4HJLvo.pgn": {
+   "bytes": 157094,
+   "sha256": "a84df79a20d45e9a8b05d3dde62346c8630fc302b0595bb03a2370250a4f1815",
+   "fetched": "2026-11-01T12:16:06+00:00"
+  },
+  "lichess/2018_women_VXFV1LkE.pgn": {
+   "bytes": 574476,
+   "sha256": "12d8d7c9832c831341cd0282943f0979dbb445cb6b864796c5b157b18ce77ca3",
+   "fetched": "2026-11-01T12:15:19+00:00"
+  },
+  "lichess/2018_women_XGrvo93U.pgn": {
+   "bytes": 168761,
+   "sha256": "9d06c5888994c76c9790fab3c572f87fed6f865204583b6a590fdff155c19544",
+   "fetched": "2026-11-01T12:11:30+00:00"
+  },
+  "lichess/2018_women_XOVCLJaW.pgn": {
+   "bytes": 290116,
+   "sha256": "52fd44bf7190e4a7cf4d8158cb760ed6c8be41ed1836e30586af469da4ad22b0",
+   "fetched": "2026-11-01T12:10:29+00:00"
+  },
+  "lichess/2018_women_cpmlG2a2.pgn": {
+   "bytes": 203711,
+   "sha256": "481a367e228207b5376e4e4d13af89347308cbdb9ef1a414e3400c00c2c970ee",
+   "fetched": "2026-11-01T12:09:54+00:00"
+  },
+  "lichess/2018_women_iPUcYWX8.pgn": {
+   "bytes": 428212,
+   "sha256": "88365ae181b79f858ebf6370302e78da55e44a2638066cef88da10b4f7679da5",
+   "fetched": "2026-11-01T12:09:16+00:00"
+  },
+  "lichess/2018_women_kHOjuR9k.pgn": {
+   "bytes": 590818,
+   "sha256": "fc7e1ba406e6de6d6ac2c492ddaa9dcac7373247986ef218638b1674f58c982a",
+   "fetched": "2026-11-01T12:12:02+00:00"
+  },
+  "lichess/2018_women_lo6v0cul.pgn": {
+   "bytes": 612967,
+   "sha256": "cf2ed423e22b7759b22281e306632e75a15f2c865acf4797d017923e26c83e6e",
+   "fetched": "2026-11-01T12:15:59+00:00"
+  },
+  "lichess/2018_women_pn8NuVcm.pgn": {
+   "bytes": 152855,
+   "sha256": "e36e2bd14578d45015a444ab5add692e6ae0302843279cc624d85c6f17560a90",
+   "fetched": "2026-11-01T12:12:58+00:00"
+  },
+  "lichess/2018_women_qAisKIvj.pgn": {
+   "bytes": 611415,
+   "sha256": "692e2a055fafa04e4c052c152c462df308f26c03c2d269970c4c39f3f2d19c46",
+   "fetched": "2026-11-01T12:15:03+00:00"
+  },
+  "lichess/2018_women_u3wl2Fhq.pgn": {
+   "bytes": 326835,
+   "sha256": "73e5a7bfb90b0ab09aa2500da3ee9628b4498df70c57d859369baf840428669e",
+   "fetched": "2026-11-01T12:10:20+00:00"
+  },
+  "lichess/2018_women_vY9gOfpc.pgn": {
+   "bytes": 168748,
+   "sha256": "07cd59567cadf111f5cf0f29d8f6446825c72224bf3549eaa7ed5df6f2988b52",
+   "fetched": "2026-11-01T12:12:09+00:00"
+  },
+  "lichess/2018_women_y7dd7qjb.pgn": {
+   "bytes": 633405,
+   "sha256": "e768bbd93ac1e0b1e949cfbb8ef2b802be9ee8497bfaa423f5b26e2653d17a8d",
+   "fetched": "2026-11-01T12:12:50+00:00"
+  },
+  "lichess/2018_women_ynId9Iib.pgn": {
+   "bytes": 646024,
+   "sha256": "9f24bfd12e44b564088614d7a37f9244e7782b997821b689d4259f9c977c0d70",
+   "fetched": "2026-11-01T12:15:42+00:00"
+  },
+  "lichess/2022_open_41uXOrqR.pgn": {
+   "bytes": 1917113,
+   "sha256": "f07289af034d20ed1998b34d4bd1e5ffa81ab92c793ce455cbfbcecb41d1b97f",
+   "fetched": "2026-11-01T12:16:53+00:00"
+  },
+  "lichess/2022_open_T7BhMqWu.pgn": {
+   "bytes": 6115503,
+   "sha256": "60b237e17e42c8ec36b6da1a825369bd82f50de7e19197d9cfeb0764f74b3545",
+   "fetched": "2026-11-01T12:26:15+00:00"
+  },
+  "lichess/2022_open_boYEDCA3.pgn": {
+   "bytes": 5437225,
+   "sha256": "f294620f3de6e11e6e6b7d5db67663a443c59c690db843f9dad764e64100a01e",
+   "fetched": "2026-11-01T12:23:32+00:00"
+  },
+  "lichess/2022_open_ogDJ96Ni.pgn": {
+   "bytes": 3232574,
+   "sha256": "9f7748643b23dee61020c784502c5bed2ae6dfc4981f4bcb94ab3085588efb82",
+   "fetched": "2026-11-01T12:27:41+00:00"
+  },
+  "lichess/2022_women_JsJYFuaf.pgn": {
+   "bytes": 2392519,
+   "sha256": "0f5f5ab47abd302e742c24c77b090ae134f751a85d96fc2b982507961ba77b13",
+   "fetched": "2026-11-01T12:35:56+00:00"
+  },
+  "lichess/2022_women_evAN0x2E.pgn": {
+   "bytes": 6573489,
+   "sha256": "ac323d16013540d2e16f532f6386c6ec6b83f224c682ef29f51f70cd18e3469e",
+   "fetched": "2026-11-01T12:31:04+00:00"
+  },
+  "lichess/2022_women_wtfmQnTj.pgn": {
+   "bytes": 6221301,
+   "sha256": "1aa82aea489093a3e6cd200a79893a955276559028bb9adee026ebdc74c6df3c",
+   "fetched": "2026-11-01T12:34:50+00:00"
+  },
+  "lichess/2024_open_M5YHvpOX.pgn": {
+   "bytes": 5469119,
+   "sha256": "2ebac39c98aacefee78618f17ffc5e0600c9d1d391366739734c38145c3219e6",
+   "fetched": "2026-11-01T12:39:37+00:00"
+  },
+  "lichess/2024_open_V3en3lb9.pgn": {
+   "bytes": 464657,
+   "sha256": "fbb7c25cc2c2bc8089d337fcbf746ca3a02c165cb7e480858242adc9a929e0c4",
+   "fetched": "2026-11-01T12:43:40+00:00"
+  },
+  "lichess/2024_open_jCcYzv6v.pgn": {
+   "bytes": 4210894,
+   "sha256": "7efcc8a103bbc28c27b642d0c95c1a6daaa4e9f85edee2299236b5ff855c3adf",
+   "fetched": "2026-11-01T12:43:27+00:00"
+  },
+  "lichess/2024_open_q6ezoCXP.pgn": {
+   "bytes": 5407826,
+   "sha256": "943d703a52fd4291282200825bdaeaf717c4c05f83903301eaf51aedbfc765e6",
+   "fetched": "2026-11-01T12:41:50+00:00"
+  },
+  "lichess/2024_open_wYigbpXq.pgn": {
+   "bytes": 4129467,
+   "sha256": "80c75f6e8b4a25a91a15bb0a84dbdd35f7af10bc1e0998349cde49669a075fdf",
+   "fetched": "2026-11-01T12:37:33+00:00"
+  },
+  "lichess/2024_women_9SgOOjEo.pgn": {
+   "bytes": 5166157,
+   "sha256": "1d63822b4300f4462bcae0e7083c8b272aac88b0bade7faf7d08b7a34b0a27a2",
+   "fetched": "2026-11-01T12:49:28+00:00"
+  },
+  "lichess/2024_women_SjZWjkng.pgn": {
+   "bytes": 5508883,
+   "sha256": "f9a72f596466adc4d84109484c09e51f9e9e7e37b1383e6b87154694bd2dc7b9",
+   "fetched": "2026-11-01T12:45:34+00:00"
+  },
+  "lichess/2024_women_aZ8unZw3.pgn": {
+   "bytes": 5434905,
+   "sha256": "43729ab89af93a89f8b6d36fa9f5bfc8455c30c6fe7b36b1aa6c733f8416057f",
+   "fetched": "2026-11-01T12:47:35+00:00"
+  },
+  "lichess/2024_women_b1XsWkeS.pgn": {
+   "bytes": 1554779,
+   "sha256": "bb028c7571521640327db266777116319fdfb3f44c4ad811a56a983c7b416c75",
+   "fetched": "2026-11-01T12:50:13+00:00"
+  },
+  "lichess/2026_open_MSQXIzkK.pgn": {
+   "bytes": 5300585,
+   "sha256": "c732f3a6d8de5a4277169c2eab760893ddb7e71119e7007a0404c175f463996b",
+   "fetched": "2026-11-01T12:53:14+00:00"
+  },
+  "lichess/2026_open_MyBFv3Ha.pgn": {
+   "bytes": 3233360,
+   "sha256": "0063f8d99621975dcca0bea1ae89d60d37bad593cfef4bbf354640f4d042fdc1",
+   "fetched": "2026-11-01T12:58:28+00:00"
+  },
+  "lichess/2026_open_Uvg2Lyjt.pgn": {
+   "bytes": 5348829,
+   "sha256": "3c7640a113bea2a510c92309561f6dc3ea2d4cae818466da93b6e3a111cfb6e7",
+   "fetched": "2026-11-01T12:55:15+00:00"
+  },
+  "lichess/2026_open_n1pPI5Q0.pgn": {
+   "bytes": 2493329,
+   "sha256": "5de1bea0dd205641078cc9184e595e50a2a0b2f09cc8d4ba2a22e7fc1670d70d",
+   "fetched": "2026-11-01T12:51:13+00:00"
+  },
+  "lichess/2026_open_sfWvd9Pd.pgn": {
+   "bytes": 5299955,
+   "sha256": "06481afe15f24628dbcbb3f4268772f318862cba9a0f21e0067d88e6488f4f06",
+   "fetched": "2026-11-01T12:57:09+00:00"
+  },
+  "lichess/2026_women_HtMn014k.pgn": {
+   "bytes": 5365668,
+   "sha256": "15c0abf2c03ad5e261ec532ff9e9cb350d1cb2ee18b7d0041d4e4ec5b8cd640b",
+   "fetched": "2026-11-01T13:00:23+00:00"
+  },
+  "lichess/2026_women_JyQqARgN.pgn": {
+   "bytes": 5143406,
+   "sha256": "0bc15c5e33350b562a5d70ead952299d6dea6b9a792e03f2ec98125c9c9ecb1d",
+   "fetched": "2026-11-01T13:04:25+00:00"
+  },
+  "lichess/2026_women_UjEVXNHv.pgn": {
+   "bytes": 5226349,
+   "sha256": "687a5dd3341132e300ff24e356cfc8408f498a26aa2a86381a6d73d615270844",
+   "fetched": "2026-11-01T13:02:17+00:00"
+  },
+  "lichess/2026_women_oQuU2arG.pgn": {
+   "bytes": 3622034,
+   "sha256": "16a8ce7b32d8a30e5ae5d7e25f3be66ac7ea4b7f0c5f8f85781b5900d986913a",
+   "fetched": "2026-11-01T13:05:51+00:00"
+  },
+  "twic/olym14.pgn": {
+   "bytes": 3642139,
+   "sha256": "8a901fcb43b4dff729d6c05d318270537ca94354b022893e467d611b4cca1ef1",
+   "fetched": "2026-11-01T12:00:35+00:00"
+  },
+  "twic/olym16.pgn": {
+   "bytes": 3543579,
+   "sha256": "d2dace9c8897a39659bc547bdaeb6717f6d558d9177936e7415fb97bc30ba3ad",
+   "fetched": "2026-11-01T12:00:42+00:00"
+  },
+  "twic/olym18.pgn": {
+   "bytes": 3883119,
+   "sha256": "6a12aab08331827d78e6fb1082caf32a535e2e8e7cb49555ce2376d2e366db5c",
+   "fetched": "2026-11-01T12:00:48+00:00"
+  },
+  "twic/olym22.pgn": {
+   "bytes": 3860135,
+   "sha256": "67bd35681e48193560cef9602ceffbfb9890c403019764c423491c5d5dcbf3f8",
+   "fetched": "2026-11-01T12:01:00+00:00"
+  },
+  "twic/olym24.pgn": {
+   "bytes": 3927777,
+   "sha256": "923bdc9dba9c19fc5b7ef124c9aa4e112aedf886bbb62f29d4fbb96ebba348a4",
+   "fetched": "2026-11-01T12:01:06+00:00"
+  },
+  "twic/olym26.pgn": {
+   "bytes": 5109942,
+   "sha256": "f27242bba6dc62258fbb51358600841439bde5d201bea75ed6c1270f46893a59",
+   "fetched": "2026-11-01T12:01:13+00:00"
+  },
+  "twic/olymm10.pgn": {
+   "bytes": 3092690,
+   "sha256": "8bb657d97051855416f549c610ba16ab0375d29f7cdfd8cee4c84f6d0a500337",
+   "fetched": "2026-11-01T12:00:22+00:00"
+  },
+  "twic/olymm12.pgn": {
+   "bytes": 3277369,
+   "sha256": "61bc6067eb537bc24dde3b2e0488448ceb47e9a9795c0be503681c04eca255c9",
+   "fetched": "2026-11-01T12:00:28+00:00"
+  },
+  "twic/olymw10.pgn": {
+   "bytes": 2367362,
+   "sha256": "1f13a31f23cc35b2ded7018e36f16640e589a9e646be69ccbe306456b803ef4c",
+   "fetched": "2026-11-01T12:00:25+00:00"
+  },
+  "twic/olymw12.pgn": {
+   "bytes": 2578551,
+   "sha256": "6b20cb7b4da6fcf94fa6cef5bda8928472ec176101bbb5deff3a5700c92a5278",
+   "fetched": "2026-11-01T12:00:31+00:00"
+  },
+  "twic/olymw14.pgn": {
+   "bytes": 2751714,
+   "sha256": "faae8d15741a16dcaae9050f78e711a40233b4e27312e81c6c2ecc2833bbe687",
+   "fetched": "2026-11-01T12:00:38+00:00"
+  },
+  "twic/olymw16.pgn": {
+   "bytes": 2782571,
+   "sha256": "e7392370c54dcd4b2efcac164310e233ec7ca0e03efd43f8b0e872ab3137276d",
+   "fetched": "2026-11-01T12:00:45+00:00"
+  },
+  "twic/olymw18.pgn": {
+   "bytes": 3064804,
+   "sha256": "ba127b2f5cc17d886ee857136490b3fee6486968bcb50058801e119ca3d71279",
+   "fetched": "2026-11-01T12:00:52+00:00"
+  },
+  "twic/olymw22.pgn": {
+   "bytes": 3236288,
+   "sha256": "fb138d24b735d970a2b444543ce767ea243db2b7553e92048a34023f897c428c",
+   "fetched": "2026-11-01T12:01:03+00:00"
+  },
+  "twic/olymw24.pgn": {
+   "bytes": 3443727,
+   "sha256": "be1e263582ecba6fcba46ee9f9b5d01da7e0c111dce56adca8ce4492fbf009e3",
+   "fetched": "2026-11-01T12:01:10+00:00"
+  },
+  "twic/olymw26.pgn": {
+   "bytes": 4578961,
+   "sha256": "365ba782106d3d9172482c0a840e03bce35d974ff0f74b2aad5d9dc682b94b37",
+   "fetched": "2026-11-01T12:01:17+00:00"
+  }
+ }
+}
